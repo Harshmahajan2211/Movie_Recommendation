@@ -25,5 +25,9 @@ A personalized movie recommender built using **Python**, **Machine Learning**, a
 - **Model Storage**: Google Drive + gdown
 
 ---
+## 🌐 Live Demo
+
+🟢 Try the app here:  
+👉 [Movie Recommendation System – Live App](https://movierecommendation-6cj9idz2pmplzfahbvenjk.streamlit.app/)
 
 
